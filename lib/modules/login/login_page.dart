@@ -4,7 +4,6 @@ import 'package:counter_app/shared/themes/app_images.dart';
 import 'package:counter_app/shared/themes/app_text_styles.dart';
 import 'package:counter_app/shared/widgets/social_login/social_login_button.dart';
 import 'package:flutter/material.dart';
-import 'package:google_sign_in/google_sign_in.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({Key? key}) : super(key: key);
